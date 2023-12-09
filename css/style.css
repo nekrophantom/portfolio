@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+
+.jumbotron {
+    padding-top: 7rem;
+    background-color: #e2edff;
+}
+
+#career {
+    background-color: #e2edff;
+}
+
+#contact {
+    background-color: #e2edff;
+}
+
+.btn:hover {
+    background-color: #e2edff;
+}
+
+section {
+    padding-top: 5rem;
+}
+
+.company{
+    text-decoration: none;
+}
+
+.company:hover{
+    text-decoration: underline;
+}
